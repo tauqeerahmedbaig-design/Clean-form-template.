@@ -1,0 +1,38 @@
+     .wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper form{
+    background-color: rgb(34, 16, 16);
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 20px;
+    color: brown;
+}
+
+.form input{
+    margin: 5px;
+    border-radius: 50px;
+    margin-left: 100px;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    color: black;
+}
+
+.header{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    color: rgb(242, 236, 236);
+}
+.batman input{
+    background-color: aqua;
+    border-radius: 50px;
+    padding: 10px 20px;
+    width: 222px;
+    border: none;
+    cursor: pointer;
+}
